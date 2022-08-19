@@ -1,0 +1,1 @@
+n="XYZ" na=$n;for i in {A..C}; do na+=$i; echo $na;done; echo $n
