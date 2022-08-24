@@ -1,0 +1,1 @@
+echo {www,example}.{mail,blog,articles,content,love,peace,red,blue,black,green}.{jp,com,co.jp,net,org,gov} | tr ' ' '\n' | sort -R | head -n10
